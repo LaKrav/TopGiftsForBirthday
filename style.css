@@ -1,0 +1,41 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.h1z{
+    text-align: center;
+    margin: 10px;
+    color: rgb(64,64,64);
+}
+
+p{
+    color: grey;
+    font-style: italic;
+    font-weight: bold;
+    text-align:center;
+}
+
+li{
+    font-weight: bold;
+}
+
+.lightp{
+    text-align:center;
+    
+}
+
+.g{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: 0.5;
+}
